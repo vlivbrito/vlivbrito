@@ -2,7 +2,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hey,%20eu%20sou%20a%20Liv!&fontSize=40&fontColor=fff&animation=fadeIn)
 
 ## 🚀 Sobre mim
-💻 **Jovem aprendiz em TI** transformando café em código e ideias em soluções reais.  
+💻 **Jovem aprendiz em TI**  
 🔍 Foco em **Flask, React e automação** para simplificar processos e criar sistemas que fazem sentido no dia a dia.  
 📚 Estudando **SQLAlchemy, integrações front/back e dashboards inteligentes**.  
 🎯 Mindset: produtividade escalável e aprendizado constante.
@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧠 Roadmap de evolução
 - 🔥 Integração avançada Flask + React.
