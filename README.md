@@ -1,13 +1,10 @@
-<!-- Banner ou GIF futurista opcional -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hey,%20eu%20sou%20a%20Liv!&fontSize=40&fontColor=fff&animation=fadeIn)
 
-## 🚀 Sobre mim
+
+
 💻 **Jovem aprendiz em TI**  
-🔍 Foco em **Flask, React e automação** para simplificar processos e criar sistemas que fazem sentido no dia a dia.  
-📚 Estudando **SQLAlchemy, integrações front/back e dashboards inteligentes**.  
-🎯 Mindset: produtividade escalável e aprendizado constante.
 
----
+
+
 
 ## 🛠 Stack Tech
 <p align="left">
@@ -19,31 +16,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-## 📌 Projetos que valem o clique
-- 🚛 [**Controle de Entrada e Saída de Caminhões**](#)  
-  Backend em Flask com SQLite, integração com arquivo `.txt` de balança e relatórios personalizados.
-- 🧾 [**Gerador de PDFs de Inspeção (React)**](#)  
-  Workflow de múltiplas etapas com assinatura digital e exportação profissional.
-- 🎯 [**Dashboard de Lista de Desejos**](#)  
-  Filtros, budget control e sugestões automáticas de produtos mais baratos.
-
----
-
-
-## 🧠 Roadmap de evolução
-- 🔥 Integração avançada Flask + React.
-- 🗄️ Domínio absoluto do SQLAlchemy.
-- 📊 Dashboards interativos e relatórios dinâmicos.
-- 🤖 Automação de processos repetitivos no trabalho.
-
----
-
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviamorenodebrito@gmail.com)
 
----
+
 
 > 💡 "Build fast. Learn faster. Break things, fix better."
