@@ -1,7 +1,7 @@
 
 
 
-💻 **Jovem aprendiz em TI**  
+
 
 
 
