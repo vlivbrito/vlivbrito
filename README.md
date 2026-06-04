@@ -1,4 +1,4 @@
-# Olá, eu sou a Lívia 👋
+# Olá, eu sou a Lívia Brito
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
@@ -19,5 +19,4 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 Construir uma carreira em desenvolvimento de software e adquirir experiência prática através de projetos e desafios de programação.
 
 🔗 Contato:
-LinkedIn: (seu link)
 Email: liviamorenodebrito@gmail.com
