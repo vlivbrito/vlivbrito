@@ -4,9 +4,8 @@
 
 # Lívia Brito
 
-### Software Developer • Backend • Python
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=C084FC&size=22&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Lívia+%F0%9F%91%8B;Software+Development+Student;Python+%26+Backend+Enthusiast;Building+my+way+to+a+global+career+%F0%9F%8C%8E"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=C084FC&size=22&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Lívia+%F0%9F%91%8B;Software+Development+Student;Python+%26+Backend+Enthusiast;"/>
 
 </div>
 
@@ -20,24 +19,16 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C084FC"/>
-
 </div>
 
 <br>
 
 ---
 
-## `about me`
+ `about me`
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas pela ETEP**, com foco em desenvolvimento de software.
 Atualmente, estou aprofundando meus conhecimentos em **Python, backend, automação e APIs**, desenvolvendo projetos para transformar conhecimento técnico em soluções reais.
-Minha trajetória em tecnologia também inclui experiência profissional com suporte de TI e desenvolvimento de ferramentas internas, o que me permitiu ter contato com problemas reais e entender como tecnologia pode otimizar processos.
 
 <br>
 
@@ -76,10 +67,6 @@ interested_in:
   - Automation
   - Cloud Computing
   - Artificial Intelligence
-
-goals:
-  short_term: "Conseguir minha primeira oportunidade como desenvolvedora"
-  long_term: "Construir uma carreira internacional em tecnologia 🌎"
 ```
 
 <br>
